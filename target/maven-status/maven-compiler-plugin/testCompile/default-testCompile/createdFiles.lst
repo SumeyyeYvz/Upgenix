@@ -1,0 +1,6 @@
+com\upgenix\Utilities\ConfigurationReader.class
+com\upgenix\Step_Definations\LoginStepDefs.class
+com\upgenix\Utilities\Driver.class
+com\upgenix\Utilities\BrowserUtils.class
+com\upgenix\Runner\CukesRunner.class
+com\upgenix\Pages\LoginPage.class

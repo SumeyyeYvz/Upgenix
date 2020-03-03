@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07eb95f6-ec43-440b-bc10-3f3a3d987ad5" name="Default Changelist" comment="" />
+    <list default="true" id="07eb95f6-ec43-440b-bc10-3f3a3d987ad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgenix/Utilities/ConfigrationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgenix/Utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/upgenix/Utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/upgenix/Utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/login.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,12 +33,37 @@
     </option>
   </component>
   <component name="ProjectId" id="1YSCCshkm5MICv1bd0ANKBPNhym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Upgenix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgenix.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.upgenix.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.upgenix.Runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,5 +95,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="394" y="152" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582927464686" />
+    <state width="1237" height="145" key="GridCell.Tab.0.bottom" timestamp="1583274829545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583274829545" />
+    <state width="1237" height="145" key="GridCell.Tab.0.center" timestamp="1583274829544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583274829544" />
+    <state width="1237" height="145" key="GridCell.Tab.0.left" timestamp="1583274829544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583274829544" />
+    <state width="1237" height="145" key="GridCell.Tab.0.right" timestamp="1583274829544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583274829544" />
   </component>
 </project>
